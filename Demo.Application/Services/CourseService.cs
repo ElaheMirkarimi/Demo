@@ -15,7 +15,7 @@ namespace Demo.Application.Services
         {
             _courseRepository = courseRepository;
         }
-
+        
         public CourseViewModel GetCourses()
         {
             return new CourseViewModel()

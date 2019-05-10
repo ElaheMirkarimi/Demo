@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Data", "Infra.Data", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{F5D55EB1-059A-41FD-8535-0D3775B8F7F1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI.Mvc", "UI.Mvc", "{DA0C98D0-99AE-4103-A67A-FBD8DAD6D060}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{DA0C98D0-99AE-4103-A67A-FBD8DAD6D060}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{BE0070AA-93DB-4786-A6E7-C4373BD17D3E}"
 EndProject
@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Domain", "Demo.Domain\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Infra.Data", "Demo.Infra.Data\Demo.Infra.Data.csproj", "{70266679-2E6C-4AB8-AC15-369070C9EF66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Application", "Demo.Application\Demo.Application.csproj", "{1C467050-CA45-4D7E-89C5-24F739D5957E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Application", "Demo.Application\Demo.Application.csproj", "{1C467050-CA45-4D7E-89C5-24F739D5957E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

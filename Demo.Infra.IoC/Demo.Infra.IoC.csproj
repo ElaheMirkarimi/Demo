@@ -9,7 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Demo.Application\Demo.Application.csproj" />
     <ProjectReference Include="..\Demo.Infra.Data\Demo.Infra.Data.csproj" />
   </ItemGroup>
 
